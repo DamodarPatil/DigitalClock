@@ -1,0 +1,34 @@
+body{
+  background-image: url(C:\Users\damod\Desktop\website\react-digitalClock\src\assets\sunset-silhouettes-trees-mountains-generative-ai.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  
+}
+
+.digitalclock-container{
+  backdrop-filter:blur(2px);
+  width: 100vw;
+  padding: 10px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.clock{
+color: white;
+font-size: 5rem;
+font-weight: bold;
+font-family: Gilroy-Regular ☞,Arial, Helvetica, sans-serif,monospace,Georgia, 'Times New Roman', Times, serif;
+color: black;
+text-align: center;
+
+}
