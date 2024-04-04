@@ -14,19 +14,19 @@ To get started with using this digital clock project, follow these steps:
 
 1. **Clone the repository**
 
-https://github.com/DamodarPatil/DigitalClock.git
+  https://github.com/DamodarPatil/DigitalClock.git
 
 2. **Navigate to the project directory:**
 
-cd digital-clock
+  cd digital-clock
 
 3. **Install dependencies:**
 
-npm install
+  npm install
 
 4. **Run the project:**
 
-npm run dev
+  npm run dev
 
 5. **Access the digital clock:**
 
